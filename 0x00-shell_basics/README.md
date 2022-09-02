@@ -1,1 +1,1 @@
-where am i
+Fredrick is willing to be a self learneded software engineer with ALX to make it better he has to try hard things to make happen without perserverence all this golden opurtunity will be to waste, so help me God
