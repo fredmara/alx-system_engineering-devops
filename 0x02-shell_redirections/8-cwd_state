@@ -1,0 +1,3 @@
+#!/bin/bash
+Is -la >> Is_cwd_content
+
